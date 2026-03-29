@@ -1,9 +1,11 @@
-# interval_tree
+# interval-tree
 
-Interval tree with point/overlap queries, interval merging
+Interval tree for overlapping interval queries.
+
+## Usage
 
 ```bash
 python3 interval_tree.py test
 ```
 
-Zero deps. Python 3.8+.
+Zero dependencies. Python 3.8+.
