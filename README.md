@@ -1,10 +1,9 @@
-# Interval Tree
+# interval_tree
 
-A zero-dependency Python CLI tool.
-
-## Usage
+Interval tree with point/overlap queries, interval merging
 
 ```bash
-python interval_tree.py test
-python interval_tree.py demo
+python3 interval_tree.py test
 ```
+
+Zero deps. Python 3.8+.
